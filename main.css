@@ -1,5 +1,19 @@
 body{
     width: 100%;
-    background-color: rgb(244, 242, 242);
+    background-color: #1d1b1b !important;
     font-size: small;
 }
+
+.navbar-custom{
+    background-color: #ec4d37; 
+}
+
+.navbar-brand, .nav-link{
+    color: #1d1b1b !important;
+}
+
+.subMenu{
+    background-color: #ec4d37 !important; 
+    border: none !important;
+}
+
