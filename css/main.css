@@ -15,5 +15,21 @@ body{
 .subMenu{
     background-color: #ec4d37 !important; 
     border: none !important;
+    
 }
+
+.itemLista{
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+}
+.itemLista:hover{
+    background-color: #ae392a !important;
+    color: white;
+}
+
+.dropdown-item:hover{
+    background-color: #ae392a !important;
+}
+
 
